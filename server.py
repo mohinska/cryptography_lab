@@ -1,6 +1,7 @@
 import socket
 import threading
 
+
 class Server:
 
     def __init__(self, port: int) -> None:
