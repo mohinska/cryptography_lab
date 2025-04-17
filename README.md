@@ -48,7 +48,7 @@ cryptography_lab/
 ---
 
 ## Приклад роботи
-#picture
+![usage_example](/usage_example.png)
 
 ---
 
