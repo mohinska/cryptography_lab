@@ -26,6 +26,7 @@ def modinv(a, m):
         x0, x1 = x1 - q * x0, x0
     return x1 + m0 if x1 < 0 else x1
 
+
 def gcd(a, b):
     if b == 0:
         return a
